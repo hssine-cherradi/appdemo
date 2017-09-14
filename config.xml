@@ -52,3 +52,6 @@
     <activity android:launchMode="singleTop" />
 </config-file>
 </widget>
+<rim:permissions>
+    <rim:permit>read_geolocation</rim:permit>
+</rim:permissions>
